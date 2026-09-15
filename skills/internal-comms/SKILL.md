@@ -1,6 +1,6 @@
 ---
-name: 10、Company Manger-comms
-description: A set of resources to help me write all kinds of 10、Company Manger communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of 10、Company Manger communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).
+name: internal-comms
+description: A set of resources for writing internal communications — status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, and project updates — using consistent professional formats. Use when asked to draft or improve internal comms.
 license: Apache-2.0
 ---
 ## When to use this skill
